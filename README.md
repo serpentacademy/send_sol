@@ -1,1 +1,1 @@
-<a href="https://serpent.academy">By Serpent Academys</a>
+<a href="https://serpent.academy">By Serpent Academy</a>
